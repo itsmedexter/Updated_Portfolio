@@ -1,18 +1,11 @@
 # Updated Portfolio Part 3
 
-Here is an updated Portfolio built with HTML, CSS, Bootstrap, Javascript, Express. I wanted to have a simple approach with a little touch of things recently learned. Upadated resume and LinkedIn links on updated site.
+Here is an updated Portfolio built with HTML, CSS, Bootstrap, Javascript, Express. I finally added a little Javascript and some color. Something I wanted to do from the beginning, but thought it was going to be hard. Also, used express to handle the backend. First I was thinking of using MVC, but it didn't make any sense. Maybe later on when I have more routes, use models, and doing local API requests. 
 
-## Always Under Construction 
-
- 1. <link href="css/style.css" rel="stylesheet" type="text/css" /> I have to remember to have this link properly set up. After a few hours of wondering why my external stylesheet wasn't working, it was missing "rel, type and /". For some reason it didn't work. When added, it worked.
- 
- 2. Hopefully soon I can use javascript to enhance the site. At the moment, my skills are not there yet. There are somethings in my head I would like to try, like making an updated version of Lightbox.
- 
-2. I'm surprised on what Bootstrap can do, it has so many features that I can expand on.
 
 ### Before and after
-![Getting Started](Xxxxpx xpxx xpx xpx px)
-![Getting Started](xpx xpx xpx xpx xp x)
+![Before](images/before.gif)
+![After](images/updated_site.gif)
 
 ### Prerequisites
 

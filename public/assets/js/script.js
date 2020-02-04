@@ -1,4 +1,26 @@
 $(".image1").on("click", function() {
+  console.log("Does it work?");
+  var card = `
+  <div class="card mb-3" style="max-width: 540px;">
+   <div class="row no-gutters">
+     <div class="col-md-4">
+       <img src="assets/images/note4.jpg" class="card-img" alt="grumble">
+     </div>
+     <div class="col-md-8">
+       <div class="card-body">
+         <h5 class="card-title">Note Taker</h5>
+         <p class="card-text">My objective was to make sure all the routes are working via back end using express in this app.<br>
+         <a href="https://powerful-everglades-60592.herokuapp.com/notes" target="blank"><strong>Live Link</strong></a><br><a href="https://github.com/itsmedexter/unit11_Note-Taker" target="blank"><strong>GitHub Repository</strong></a></p>
+       </div>
+     </div>
+   </div>
+ </div>
+  `
+  $("#dump").append(card);
+  $(this).off("click");
+});
+
+$(".image2").on("click", function() {
     console.log("hello world");
     var card = `
     <div class="card mb-3" style="max-width: 540px;">
@@ -21,13 +43,13 @@ $(".image1").on("click", function() {
     $(this).off("click");
 });   
 
-$(".image2").on("click", function() {
+$(".image3").on("click", function() {
     console.log("hello world");
     var card = `
     <div class="card mb-3" style="max-width: 540px;">
      <div class="row no-gutters">
        <div class="col-md-4">
-         <img src="assets/images/password2.jpg" class="card-img" alt="grumble">
+         <img src="assets/images/password2.jpg" class="card-img" alt="password">
        </div>
        <div class="col-md-8">
          <div class="card-body">
@@ -45,13 +67,13 @@ $(".image2").on("click", function() {
 });
 
 
-$(".image3").on("click", function() {
+$(".image4").on("click", function() {
     console.log("hello world");
     var card = `
     <div class="card mb-3" style="max-width: 540px;">
      <div class="row no-gutters">
        <div class="col-md-4">
-         <img src="assets/images/schedule2.jpg" class="card-img" alt="grumble">
+         <img src="assets/images/schedule2.jpg" class="card-img" alt="schedule">
        </div>
        <div class="col-md-8">
          <div class="card-body">

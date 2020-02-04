@@ -1,11 +1,15 @@
 # Updated Portfolio Part 3
+First:
+![Before](images/before.jpg)
 
-Here is an updated Portfolio built with HTML, CSS, Bootstrap, Javascript, Express. I finally added a little Javascript and some color. Something I wanted to do from the beginning, but thought it was going to be hard. Also, used express to handle the backend. First I was thinking of using MVC, but it didn't make any sense. Maybe later on when I have more routes, use models, and doing local API requests. 
+Second: 
+![Before](images/before1.jpg)
 
-
-### Before and after
-![Before](images/before.gif)
+Third:
 ![After](images/updated_site.gif)
+
+Here is an updated Portfolio built with HTML, CSS, Bootstrap, Javascript, Express. I finally added a little Javascript and some color, subtle changes. Something I wanted to do from the beginning, but thought it was going to be hard. Also, used express to handle the backend. First I was thinking of using MVC, but it didn't make any sense. Maybe later on when I have more routes, use models, and doing local API requests. 
+
 
 ### Prerequisites
 

@@ -42,4 +42,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Thanks Kerwin for reminder on mediaquery.  
+* Thanks to Mahisha for helping me find the syntax error for the background color.  

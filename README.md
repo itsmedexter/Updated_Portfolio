@@ -13,7 +13,7 @@ Here is an updated Portfolio built with HTML, CSS, Bootstrap, Javascript, Expres
 
 ### Prerequisites
 
-Any web browser can view live link, (https://quiet-journey-29473.herokuapp.com/). Repository link, (https://github.com/itsmedexter/unit16_unit16_portfolio), .
+Any web browser can view live link, (https://quiet-journey-29473.herokuapp.com/). Repository link, (https://github.com/itsmedexter/Updated_Portfolio), .
 
 ## Technolgies Used
 
@@ -32,7 +32,7 @@ Any web browser can view live link, (https://quiet-journey-29473.herokuapp.com/)
 
 Dexter Valencia 
 
-- [Link to Portfolio Site](https://github.com/itsmedexter/unit16_unit16_portfolio)
+- [Link to Portfolio Site](https://github.com/itsmedexter/Updated_Portfolio)
 - [Link to Github](https://github.com/itsmedexter)
 - [Link to LinkedIn](https://www.linkedin.com/in/dextervalencia/)
 
